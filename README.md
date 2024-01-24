@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="911" alt="Captura de pantalla 2024-01-24 a la(s) 2 27 07 p m" src="https://github.com/DanielGalindoDev/DanielGalindoDev/assets/129880574/8dc7946f-62fa-4577-9446-cc38d941479e">
 
+<img width="915" alt="Captura de pantalla 2024-01-24 a la(s) 2 28 48 p m" src="https://github.com/DanielGalindoDev/DanielGalindoDev/assets/129880574/b46605af-8905-4108-947e-0e51a117e8dc">
