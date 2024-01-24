@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Sobre mi](https://github.com/DanielGalindoDev/DanielGalindoDev/assets/129880574/d6c4bfc5-3044-407e-ad73-f0cc6dd58526)
+<img width="660" alt="Captura de pantalla 2024-01-24 a la(s) 2 26 08 p m" src="https://github.com/DanielGalindoDev/DanielGalindoDev/assets/129880574/2a3efffb-eb55-4ecc-aaac-94ea5760d2cd">
