@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **DanielGalindoDev/DanielGalindoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Sobre_mi-removebg-preview](https://github.com/DanielGalindoDev/DanielGalindoDev/assets/129880574/4ba2963e-aeb3-4084-a99b-0987d4197db6)
+
