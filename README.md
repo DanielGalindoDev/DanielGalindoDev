@@ -13,5 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Sobre_mi-removebg-preview](https://github.com/DanielGalindoDev/DanielGalindoDev/assets/129880574/4ba2963e-aeb3-4084-a99b-0987d4197db6)
-
+![Sobre mi](https://github.com/DanielGalindoDev/DanielGalindoDev/assets/129880574/d6c4bfc5-3044-407e-ad73-f0cc6dd58526)
