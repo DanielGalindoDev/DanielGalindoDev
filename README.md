@@ -5,6 +5,7 @@
   <a href="mailto:danieladriangalindoreyes@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/danielgalindoreyes"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.credly.com/users/daniel-adrian-galindo-reyes"><img src="https://img.shields.io/badge/Credly-Badges-orange?style=for-the-badge&logo=credly&logoColor=white" /></a>
+  <a href="https://portafolio-ebon-beta-28.vercel.app"><img src="https://img.shields.io/badge/Portafolio-Web-%231572B6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
@@ -83,7 +84,8 @@ Soy estudiante de 9° semestre en la Facultad de Ingeniería de la UNAM con enfo
 ## 📫 Contacto
 
 - 📧 **danieladriangalindoreyes@gmail.com**  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/danielgalindoreyes)  
+- 🌐 [Portafolio Personal](https://portafolio-ebon-beta-28.vercel.app)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/danielgalindoreyes)  
 - 🪪 [Credly - Mis insignias](https://www.credly.com/users/daniel-adrian-galindo-reyes)  
 - 📱 **+52 564 605 8082**
 
