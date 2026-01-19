@@ -85,7 +85,8 @@ Soy estudiante de 9° semestre en la Facultad de Ingeniería de la UNAM con enfo
 
 - 📧 **danieladriangalindoreyes@gmail.com**  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/danielgalindoreyes)  
-- 🪪 [Credly - Mis insignias](https://www.credly.com/users/daniel-adrian-galindo-reyes)  
+- 🪪 [Credly - Mis insignias](https://www.credly.com/users/daniel-adrian-galindo-reyes)
+- 🔗 [Potafolio - Sobre mi](https://portafolio-ebon-beta-28.vercel.app/AboutMe)  
 - 📱 **+52 564 605 8082**
 
 ---
